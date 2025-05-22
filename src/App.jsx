@@ -11,6 +11,8 @@ const App = () => {
       <BackgroundCanvas />
       <Navbar />
       <Home />
+      <About />
+      <Contact />
     </div>
   );
 };
